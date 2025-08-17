@@ -14,16 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+you can find me on 
 
-## 🌐 Connect with me
-
-## 🌐 Connect with me
 
 <a href="https://linkedin.com/in/jaseelkt" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-</a>
-<a href="https://github.com/Jaseelkt007" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
 </a>
 <a href="https://instagram.com/jaseel_kt_" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="30" height="30"/>
