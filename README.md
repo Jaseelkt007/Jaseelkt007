@@ -23,4 +23,6 @@ you can find me on
 <a href="https://instagram.com/jaseel_kt_" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" height="30"/>
 </a>
-
+<a href="mailto:jaseelkt1official@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
+</a>
