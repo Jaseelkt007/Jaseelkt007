@@ -26,3 +26,6 @@ you can find me on
 <a href="mailto:jaseelkt1official@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
 </a>
+<a href="https://jaseel.live" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" width="30" height="30"/>
+</a>
