@@ -12,7 +12,6 @@ M.Sc. researcher at the **University of Stuttgart** working on **controllable ge
 
 ## 🏆 Recent Highlights
 
-- 🏁 **Finalist** — European Hackathon League Final Munich (Atira track) · *Oct 2026*
 - 🥇 **1st place** — European Hackathon League Zurich Overall Winner · *Sep 2026*
 - 🥇 **1st place** — Energy Hack Munich (ENERPARC × Invertix) · *Jun 2026*
 - 🥈 **2nd place** — Algorand x402 Hackathon (Berlin) · *Jun 2026*
