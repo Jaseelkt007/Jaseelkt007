@@ -8,7 +8,7 @@ M.Sc. researcher at the **University of Stuttgart** working on **controllable ge
 
 ## 🚀 Founder — Voxhelm
 
-**[Voxhelm](https://voxhelm.de)** is my computer- and browser-use agent for Windows, built in Rust and live as a product: hold a key, say the task, and it gets done on your PC. We're now integrating the multi-agent orchestration (planning, parallel research agents) from the European Hackathon League Final. → **[Try it free](https://voxhelm.de)**
+**[Voxhelm](https://voxhelm.de)** is my computer- and browser-use agent for Windows, built in Rust and live as a product: hold a key, say the task, and it gets done on your PC. → **[Try it free](https://voxhelm.de)**
 
 ## 🏆 Recent Highlights
 
