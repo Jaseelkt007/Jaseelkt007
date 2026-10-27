@@ -6,7 +6,7 @@ M.Sc. researcher at the **University of Stuttgart** working on **controllable ge
 
 🌐 More on my portfolio → **[jaseel.live](https://jaseel.live)**
 
-## 🚀 Founder — Voxhelm
+## 🚀 Founder — Voxhelm - Building the Fastest and Most reliable computer use agent
 
 **[Voxhelm](https://voxhelm.de)** is my computer- and browser-use agent for Windows, built in Rust and live as a product: hold a key, say the task, and it gets done on your PC. → **[Try it free](https://voxhelm.de)**
 
